@@ -1,0 +1,6 @@
+[submodule "joga-backend"]
+	path = joga-backend
+	url = git@github.com:stechy1/joga-backend.git
+[submodule "joga-frontend"]
+	path = joga-frontend
+	url = git@github.com:stechy1/joga-frontend.git
